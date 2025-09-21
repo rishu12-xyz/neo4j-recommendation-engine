@@ -1,7 +1,9 @@
-user,product
+user_name,product_name
 Alice,Laptop
-Alice,Phone
+Alice,Keyboard
 Bob,Laptop
-Bob,Tablet
-Charlie,Phone
-Charlie,Headphones
+Bob,Phone
+Carol,Laptop
+Carol,Headphones
+Dave,Keyboard
+Dave,Mouse
